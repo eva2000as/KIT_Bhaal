@@ -12,6 +12,10 @@ LANGUAGE ~Francais pour les editions EE~
 LANGUAGE ~English~
 	~english~
 	~P!Bhaal/Tra/English/Setup.tra~
+	
+LANGUAGE ~Schinese~
+	~schinese~
+	~P!Bhaal/Tra/Schinese/Setup.tra~
 
 BEGIN @1
 INCLUDE ~P!Bhaal/fl#add_kit_ee.tpa~
